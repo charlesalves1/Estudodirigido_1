@@ -3,15 +3,17 @@
 def exibir_menu():
     print("\n[1] Cadastrar item  [2] Listar itens  [0] Sair")
 
-
 def cadastrar(itens):
     nome = input("Digite o nome do item: ").strip()
+
     if not nome:
         print("✖ Nome não pode ser vazio.")
         return
+
     if nome in itens:
         print("✖ Item já existe.")
         return
+
     itens.append(nome)
     print("✔ Item cadastrado!")
 
