@@ -1,5 +1,26 @@
 # Projeto BFD 2.0 
-Este é o projeto inicial desenvolvido durante o curso.   
-Contém exemplos de lógica de programação e boas práticas.
-Neste estudo, dirigido aprendemos a usar de forma basica as funções, IF,ELSE,ELIF,WHILE,INPUT, INT, FOR, PRINT.
-Tivemos exercícios para a fixação também. 
+# Estudo Dirigido 1 – Fundamentos de Programação em Python
+
+## 📌 Descrição
+Repositório criado para armazenar exercícios básicos de programação em Python, desenvolvidos durante o primeiro estudo dirigido da minha formação na área de tecnologia.
+
+O objetivo deste projeto é consolidar conceitos fundamentais da linguagem, lógica de programação e boas práticas iniciais de desenvolvimento.
+
+## 🎯 Conteúdos Trabalhados
+- Variáveis e tipos de dados
+- Estruturas condicionais (if / else)
+- Laços de repetição (for / while)
+- Funções
+- Entrada e saída de dados
+- Lógica de programação
+
+## 🛠️ Tecnologias Utilizadas
+- Python
+- Git
+- GitHub
+
+## ⚙️ Como Executar
+1. Clone o repositório:
+```bash
+git clone https://github.com/charlesalves1/Estudodirigido_1.git
+
